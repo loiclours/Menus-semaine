@@ -1,0 +1,618 @@
+{
+ "semaine": "Semaine du 9 novembre 2026",
+ "jours": [
+  [
+   "Lundi",
+   [
+    "Omelette aux champignons",
+    [
+     [
+      "Œufs",
+      3,
+      "",
+      0.9,
+      "C"
+     ],
+     [
+      "Champignons",
+      150,
+      "g",
+      0.8,
+      "L"
+     ],
+     [
+      "Beurre",
+      10,
+      "g",
+      0.1,
+      "C"
+     ]
+    ],
+    {
+     "t": "10 min",
+     "e": [
+      "Nettoyer et émincer 150 g de champignons.",
+      "Faire fondre 10 g de beurre dans une poêle, y dorer les champignons 5 min à feu vif, saler et poivrer.",
+      "Battre 3 œufs avec une pincée de sel.",
+      "Les verser sur les champignons à feu moyen, laisser prendre 2 min, replier et servir."
+     ]
+    }
+   ],
+   [
+    "Velouté de potiron",
+    [
+     [
+      "Potimarron",
+      400,
+      "g",
+      1,
+      "L"
+     ],
+     [
+      "Pommes de terre",
+      100,
+      "g",
+      0.2,
+      "L"
+     ],
+     [
+      "Oignons",
+      1,
+      "",
+      0.2,
+      "L"
+     ],
+     [
+      "Crème fraîche",
+      30,
+      "g",
+      0.2,
+      "C"
+     ]
+    ],
+    {
+     "t": "30 min",
+     "e": [
+      "Couper 400 g de potimarron (peau lavée, gardée si elle est fine), 100 g de pommes de terre et 1 oignon en cubes.",
+      "Faire revenir l’oignon 3 min dans une casserole avec 1 c. à café d’huile.",
+      "Ajouter les légumes, couvrir d’eau juste à hauteur (environ 400 ml), saler et cuire 20 min.",
+      "Mixer avec 30 g de crème fraîche (environ 2 c. à soupe), rectifier le sel et le poivre."
+     ]
+    }
+   ]
+  ],
+  [
+   "Mardi",
+   [
+    "Salade de lentilles",
+    [
+     [
+      "Lentilles vertes",
+      80,
+      "g",
+      0.3,
+      "E"
+     ],
+     [
+      "Carottes",
+      100,
+      "g",
+      0.2,
+      "L"
+     ],
+     [
+      "Œufs",
+      1,
+      "",
+      0.3,
+      "C"
+     ],
+     [
+      "Oignons",
+      1,
+      "",
+      0.2,
+      "L"
+     ]
+    ],
+    {
+     "t": "25 min",
+     "e": [
+      "Cuire 80 g de lentilles vertes 20 min dans de l’eau bouillante, puis égoutter.",
+      "Cuire 1 œuf 9 min dans l’eau bouillante, le passer sous l’eau froide et l’écaler.",
+      "Râper 100 g de carottes et émincer finement 1 oignon.",
+      "Mélanger les lentilles tièdes, les carottes et l’oignon avec 1 c. à soupe d’huile, 1 c. à café de vinaigre, 1 c. à café de moutarde, sel et poivre.",
+      "Ajouter l’œuf coupé en quartiers."
+     ]
+    }
+   ],
+   [
+    "Gratin de chou-fleur au jambon",
+    [
+     [
+      "Chou-fleur",
+      400,
+      "g",
+      1.2,
+      "L"
+     ],
+     [
+      "Jambon blanc (tranches)",
+      2,
+      "",
+      0.8,
+      "V"
+     ],
+     [
+      "Fromage râpé",
+      50,
+      "g",
+      0.5,
+      "C"
+     ],
+     [
+      "Lait",
+      200,
+      "ml",
+      0.2,
+      "C"
+     ],
+     [
+      "Beurre",
+      10,
+      "g",
+      0.1,
+      "C"
+     ]
+    ],
+    {
+     "t": "40 min",
+     "e": [
+      "Préchauffer le four à 200 °C.",
+      "Séparer 400 g de chou-fleur en bouquets et les cuire 10 min dans l’eau bouillante salée, puis égoutter.",
+      "Les disposer dans un plat avec 2 tranches de jambon coupées en morceaux.",
+      "Verser 200 ml de lait salé et poivré, parsemer de 50 g de fromage râpé et ajouter 10 g de beurre en petits morceaux.",
+      "Enfourner 20 min, jusqu’à ce que le dessus soit doré."
+     ]
+    }
+   ]
+  ],
+  [
+   "Mercredi",
+   [
+    "Quiche poireaux-chèvre",
+    [
+     [
+      "Poireaux",
+      2,
+      "",
+      1.2,
+      "L"
+     ],
+     [
+      "Pâte brisée",
+      1,
+      "",
+      1,
+      "E"
+     ],
+     [
+      "Œufs",
+      2,
+      "",
+      0.6,
+      "C"
+     ],
+     [
+      "Chèvre",
+      50,
+      "g",
+      0.8,
+      "C"
+     ],
+     [
+      "Crème fraîche",
+      50,
+      "g",
+      0.3,
+      "C"
+     ]
+    ],
+    {
+     "t": "45 min",
+     "e": [
+      "Préchauffer le four à 180 °C.",
+      "Émincer 2 poireaux et les faire fondre 10 min à la poêle avec 1 c. à café d’huile ou de beurre.",
+      "Étaler 1 pâte brisée dans un moule.",
+      "Battre 2 œufs avec 50 g de crème fraîche (3 c. à soupe), saler et poivrer.",
+      "Répartir les poireaux et 50 g de chèvre en rondelles sur la pâte, verser le mélange et cuire 30 min."
+     ]
+    }
+   ],
+   [
+    "Steak haché, purée de patates douces",
+    [
+     [
+      "Steak haché",
+      1,
+      "",
+      1.3,
+      "V"
+     ],
+     [
+      "Patates douces",
+      300,
+      "g",
+      0.8,
+      "L"
+     ],
+     [
+      "Beurre",
+      10,
+      "g",
+      0.1,
+      "C"
+     ]
+    ],
+    {
+     "t": "25 min",
+     "e": [
+      "Éplucher 300 g de patates douces, les couper en cubes et les cuire 15 min à l’eau bouillante.",
+      "Les égoutter et les écraser avec 10 g de beurre, du sel et du poivre.",
+      "Cuire 1 steak haché 3 à 4 min par face à la poêle, jusqu’à ce qu’il soit bien cuit à cœur.",
+      "Servir avec la purée."
+     ]
+    }
+   ]
+  ],
+  [
+   "Jeudi",
+   [
+    "Salade d’endives, pommes, noix",
+    [
+     [
+      "Endives",
+      2,
+      "",
+      1,
+      "L"
+     ],
+     [
+      "Pommes",
+      1,
+      "",
+      0.4,
+      "L"
+     ],
+     [
+      "Noix",
+      30,
+      "g",
+      0.6,
+      "E"
+     ],
+     [
+      "Chèvre",
+      30,
+      "g",
+      0.5,
+      "C"
+     ]
+    ],
+    {
+     "t": "10 min",
+     "e": [
+      "Émincer 2 endives, couper 1 pomme en dés et concasser 30 g de noix.",
+      "Préparer une vinaigrette avec 2 c. à soupe d’huile, 1 c. à soupe de vinaigre, 1 c. à café de moutarde, du sel et du poivre.",
+      "Mélanger le tout et émietter 30 g de chèvre par-dessus."
+     ]
+    }
+   ],
+   [
+    "Risotto au potimarron",
+    [
+     [
+      "Riz rond",
+      80,
+      "g",
+      0.3,
+      "E"
+     ],
+     [
+      "Potimarron",
+      300,
+      "g",
+      0.8,
+      "L"
+     ],
+     [
+      "Oignons",
+      1,
+      "",
+      0.2,
+      "L"
+     ],
+     [
+      "Fromage râpé",
+      30,
+      "g",
+      0.3,
+      "C"
+     ],
+     [
+      "Bouillon cube",
+      1,
+      "",
+      0.1,
+      "E"
+     ]
+    ],
+    {
+     "t": "35 min",
+     "e": [
+      "Couper 300 g de potimarron en petits cubes et hacher 1 oignon.",
+      "Dissoudre 1 cube de bouillon dans 400 ml d’eau chaude et garder au chaud.",
+      "Faire revenir l’oignon dans 1 c. à soupe d’huile, ajouter 80 g de riz rond et le remuer 1 min.",
+      "Ajouter le bouillon louche par louche en remuant, avec le potimarron au bout de 10 min.",
+      "Après environ 20 min, quand le riz est tendre, ajouter 30 g de fromage râpé et servir."
+     ]
+    }
+   ]
+  ],
+  [
+   "Vendredi",
+   [
+    "Pâtes aux champignons",
+    [
+     [
+      "Pâtes",
+      100,
+      "g",
+      0.2,
+      "E"
+     ],
+     [
+      "Champignons",
+      200,
+      "g",
+      1,
+      "L"
+     ],
+     [
+      "Crème fraîche",
+      50,
+      "g",
+      0.3,
+      "C"
+     ],
+     [
+      "Ail (gousse)",
+      1,
+      "",
+      0.1,
+      "L"
+     ]
+    ],
+    {
+     "t": "20 min",
+     "e": [
+      "Cuire 100 g de pâtes dans l’eau bouillante salée selon le temps indiqué sur le paquet.",
+      "Émincer 200 g de champignons et les dorer 5 min à la poêle avec 1 c. à café d’huile et 1 gousse d’ail hachée.",
+      "Ajouter 50 g de crème fraîche (3 c. à soupe), saler, poivrer et laisser mijoter 2 min.",
+      "Mélanger avec les pâtes égouttées."
+     ]
+    }
+   ],
+   [
+    "Colin en papillote",
+    [
+     [
+      "Colin (filet)",
+      1,
+      "",
+      3,
+      "V"
+     ],
+     [
+      "Carottes",
+      150,
+      "g",
+      0.3,
+      "L"
+     ],
+     [
+      "Beurre",
+      10,
+      "g",
+      0.1,
+      "C"
+     ]
+    ],
+    {
+     "t": "25 min",
+     "e": [
+      "Préchauffer le four à 200 °C.",
+      "Couper 150 g de carottes en fines rondelles et les cuire 5 min à l’eau bouillante.",
+      "Poser sur une grande feuille de papier cuisson les carottes, 1 filet de colin, 10 g de beurre, du sel et du poivre.",
+      "Refermer en papillote et cuire 15 min."
+     ]
+    }
+   ]
+  ],
+  [
+   "Samedi",
+   [
+    "Tartines courge et chèvre",
+    [
+     [
+      "Potimarron",
+      250,
+      "g",
+      0.6,
+      "L"
+     ],
+     [
+      "Pain",
+      100,
+      "g",
+      0.3,
+      "E"
+     ],
+     [
+      "Chèvre",
+      50,
+      "g",
+      0.8,
+      "C"
+     ]
+    ],
+    {
+     "t": "30 min",
+     "e": [
+      "Préchauffer le four à 200 °C.",
+      "Couper 250 g de potimarron en cubes, les arroser de 1 c. à soupe d’huile, saler et rôtir 20 min.",
+      "Faire griller 100 g de pain (environ 3 tranches).",
+      "Écraser la courge sur les tartines, ajouter 50 g de chèvre en rondelles et repasser 3 min au four."
+     ]
+    }
+   ],
+   [
+    "Burger maison, frites au four",
+    [
+     [
+      "Steak haché",
+      1,
+      "",
+      1.3,
+      "V"
+     ],
+     [
+      "Pains à burger",
+      1,
+      "",
+      0.5,
+      "E"
+     ],
+     [
+      "Salade",
+      50,
+      "g",
+      0.3,
+      "L"
+     ],
+     [
+      "Oignons",
+      1,
+      "",
+      0.2,
+      "L"
+     ],
+     [
+      "Pommes de terre",
+      250,
+      "g",
+      0.5,
+      "L"
+     ]
+    ],
+    {
+     "t": "40 min",
+     "e": [
+      "Préchauffer le four à 220 °C.",
+      "Couper 250 g de pommes de terre en bâtonnets, les mélanger à 1 c. à soupe d’huile et à du sel, puis cuire 30 min en les retournant à mi-cuisson.",
+      "Faire cuire 1 steak haché 4 min par face à la poêle, jusqu’à ce qu’il soit bien cuit à cœur.",
+      "Toaster 1 pain à burger.",
+      "Assembler avec 50 g de salade, 1 oignon émincé finement et le steak."
+     ]
+    }
+   ]
+  ],
+  [
+   "Dimanche",
+   [
+    "Poulet rôti, pommes de terre, carottes",
+    [
+     [
+      "Cuisses de poulet",
+      2,
+      "",
+      2.5,
+      "V"
+     ],
+     [
+      "Pommes de terre",
+      300,
+      "g",
+      0.6,
+      "L"
+     ],
+     [
+      "Carottes",
+      200,
+      "g",
+      0.3,
+      "L"
+     ]
+    ],
+    {
+     "t": "1 h",
+     "e": [
+      "Préchauffer le four à 200 °C.",
+      "Couper 300 g de pommes de terre et 200 g de carottes en morceaux et les mettre dans un plat avec 1 c. à soupe d’huile, du sel et du poivre.",
+      "Poser 2 cuisses de poulet par-dessus et les assaisonner.",
+      "Cuire 45 à 50 min en retournant le tout à mi-cuisson : le jus doit être clair, sans trace rosée."
+     ]
+    }
+   ],
+   [
+    "Soupe de lentilles corail",
+    [
+     [
+      "Lentilles corail",
+      80,
+      "g",
+      0.3,
+      "E"
+     ],
+     [
+      "Lait de coco",
+      200,
+      "ml",
+      0.7,
+      "E"
+     ],
+     [
+      "Carottes",
+      100,
+      "g",
+      0.2,
+      "L"
+     ],
+     [
+      "Oignons",
+      1,
+      "",
+      0.2,
+      "L"
+     ],
+     [
+      "Bouillon cube",
+      1,
+      "",
+      0.1,
+      "E"
+     ]
+    ],
+    {
+     "t": "25 min",
+     "e": [
+      "Couper 1 oignon et 100 g de carottes en dés et les faire revenir 5 min dans 1 c. à café d’huile.",
+      "Ajouter 80 g de lentilles corail rincées, 1 cube de bouillon et 500 ml d’eau.",
+      "Cuire 15 min.",
+      "Ajouter 200 ml de lait de coco, mixer si vous voulez une soupe lisse, puis rectifier l’assaisonnement."
+     ]
+    }
+   ]
+  ]
+ ]
+}
